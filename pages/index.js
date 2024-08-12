@@ -1,6 +1,6 @@
 
 function Home() {
-    return <h1>Uma frase calorosa.</h1>
+    return <h1>Você é o amor da minha vida 💞</h1>
 }
 
 export default Home;
